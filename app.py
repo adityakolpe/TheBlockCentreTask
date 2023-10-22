@@ -66,7 +66,7 @@ def process_data():
         document.save("output.pdf")
         print("pdf created")
         # Send the PDF as an email
-        sender_email = "adityakolpe99@gmail.com"
+        sender_email = "a....99@gmail.com"
         sender_password = ""
         recipient_email = data.get('email')
         subject = "PDF Report"
